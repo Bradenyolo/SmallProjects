@@ -49,6 +49,6 @@ class Browser(QMainWindow):
         self.url_bar.setText(q.toString())
 
 app = QApplication(sys.argv)
-QApplication.setApplicationName("Private Browser")
+QApplication.setApplicationName("PyBrowser")
 window = Browser()
 app.exec_()
