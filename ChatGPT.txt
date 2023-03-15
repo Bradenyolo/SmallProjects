@@ -12,4 +12,5 @@ I'd like to start with:
 /recent, please introduce yourself.
 /chatgpt, you as well.
 
-|| please note that Recent AI model can get incorrect 2023 info or may not respond correctly ||
+|| please note that Recent AI model can get incorrect 2023 info ||
+|| you can use both commands at one prompt. e.g. (/recent and /chatgpt, introduce yourselves to each other).
